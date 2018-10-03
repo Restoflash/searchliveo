@@ -775,7 +775,7 @@ public class SearchLiveo extends FrameLayout {
        // mEdtSearch.requestFocus();
     }
 
-    public void requestFocus()
+    public void requestSearchFocus()
     {
         mEdtSearch.requestFocus();
     }
