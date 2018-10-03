@@ -772,6 +772,11 @@ public class SearchLiveo extends FrameLayout {
             showKeyboardRunOnUiThread();
         }
 
+       // mEdtSearch.requestFocus();
+    }
+
+    public void requestFocus()
+    {
         mEdtSearch.requestFocus();
     }
 
