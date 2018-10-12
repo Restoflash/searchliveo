@@ -47,7 +47,7 @@
             android:background="@android:color/transparent"
             android:gravity="center_vertical"
             android:hint="@android:string/search_go"
-            android:imeOptions="actionSearch"
+            android:imeOptions="actionDone"
             android:inputType="textCapWords"
             android:maxLines="1"
             android:paddingEnd="8dp"
